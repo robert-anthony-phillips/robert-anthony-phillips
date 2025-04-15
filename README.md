@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robert-anthony-phillips
 - 👀 I’m interested in software development, obviously, music and aviation.
-- 🌱 I’m currently learning Flutter, SwiftUI and how to play the piano.
+- 🌱 I’m a Senior iOS Software Developer developing in Swift, but also know many other languages such as Lua, Dart, Flutter, Objective-C, Javscript and a few others.
 
 <!---
 robert-anthony-phillips/robert-anthony-phillips is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
